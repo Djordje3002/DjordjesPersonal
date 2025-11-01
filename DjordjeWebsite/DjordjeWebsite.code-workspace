@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "DjordjeWebsite",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DjordjeWebsite"
+	}
+}
